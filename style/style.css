@@ -285,7 +285,7 @@ header {
 .navLogo {
   width: calc(33% - 2px);
   text-align: center;
-  padding:10px 0px;
+  padding:0px;
 }
 
 .nav-call {
@@ -1388,7 +1388,9 @@ div.customers-cont .owl-next {
   bottom: 0;
   margin: auto;
 }
-
+.foot-logo {
+  width: 120px;
+}
 /* =====customer slider */
 
 @media (max-width: 992px) {
