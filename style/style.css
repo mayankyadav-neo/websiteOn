@@ -2013,7 +2013,7 @@ section.sectionDefault p {
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
-  /* max-width: 200px; */
+  max-width: 200px;
   outline: none;
   padding: 10px;
   width: 100%;
