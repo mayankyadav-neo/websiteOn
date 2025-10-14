@@ -2249,6 +2249,9 @@ span.green.badgeocd {
 .product-card {
   position: relative;
 }
+.product-card a {
+  text-decoration: none;
+}
 @media screen and (max-width: 767px) {
   .product-cards {
     flex-flow: wrap;
